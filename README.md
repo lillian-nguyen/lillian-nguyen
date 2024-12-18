@@ -5,10 +5,10 @@
 </p>
 <p align="center"> 
   <a href="https://lillian-nguyen.netlify.app/" target="blank">
-    <img src="https://img.shields.io/badge/Website-563d7c?&style=for-the-badge" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-68486F?&style=for-the-badge" alt="Portfolio">
   </a>
   <a href="http://linkedin.com/in/ldv-nguyen">
-    <img src="https://img.shields.io/badge/LinkedIn-046E6D?logo=linkedin&style=for-the-badge">
+    <img src="https://img.shields.io/badge/LinkedIn-C0ADD1?logo=linkedin&style=for-the-badge">
   </a>
 </p>
 
@@ -25,10 +25,10 @@
         <br />
         <p align="center">
           <a href="https://github.com/lillian-nguyen/100devsC2/tree/main/class-28/cocktail-database" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=&message=REPO&color=505C81&style=for-the-badge&logo=github&logo-color=white"/>
           </a>  
           <a href="#" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=&message=LIVE%20SITE&color=743387&style=for-the-badge"/>
+            <img src="https://img.shields.io/static/v1?label=&message=LIVE%20SITE&color=846EA3&style=for-the-badge"/>
           </a>
       </p>
         <p><strong>JavaScript, HTML, CSS, Git</strong> - Web Application with RESTful API Integration. Cocktail Database is the all-in-one tool for cocktail enthusiasts. Dive into the extensive database and discover detailed recipes, ingredient lists, and visuals for each drink. Whether you're searching for a new combination to try or need the perfect recipe for your next gathering, the Cocktail Database has you covered!</p>
@@ -42,7 +42,7 @@
         <br />
         <p align="center">
           <a href="#" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=&message=REPO&color=68486F&style=for-the-badge&logo=github&logo-color=white"/>
           </a>  
           <a href="#" target="_blank">
             <img src="#"/>
@@ -107,12 +107,12 @@
 <h3 align="center">Connect</h3>
 <p align="center">
   <a href="https://lillian-nguyen.netlify.app/" target="blank">
-      <img src="https://img.shields.io/badge/Website-563d7c?&style=for-the-badge" alt="Portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-68486F?&style=for-the-badge" alt="Portfolio">
     </a>
     <a href="http://linkedin.com/in/ldv-nguyen">
-      <img src="https://img.shields.io/badge/LinkedIn-046E6D?logo=linkedin&style=for-the-badge">
+      <img src="https://img.shields.io/badge/LinkedIn-68486F?logo=linkedin&style=for-the-badge">
     </a>
     <a href="https://x.com/lilliancodes" target="blank">
-      <img src="https://img.shields.io/badge/Twitter-563d7c?logo=twitter&style=for-the-badge&logoColor=white" alt="lilliancodes" />
+      <img src="https://img.shields.io/badge/Twitter-68486F?logo=twitter&style=for-the-badge&logoColor=white" alt="lilliancodes" />
   </a> 
 </p>
