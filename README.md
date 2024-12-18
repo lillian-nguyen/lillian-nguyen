@@ -110,7 +110,7 @@
       <img src="https://img.shields.io/badge/Portfolio-68486F?&style=for-the-badge" alt="Portfolio">
     </a>
     <a href="http://linkedin.com/in/ldv-nguyen">
-      <img src="https://img.shields.io/badge/LinkedIn-68486F?logo=linkedin&style=for-the-badge">
+      <img src="https://img.shields.io/badge/LinkedIn-C0ADD1?logo=linkedin&style=for-the-badge">
     </a>
     <a href="https://x.com/lilliancodes" target="blank">
       <img src="https://img.shields.io/badge/Twitter-68486F?logo=twitter&style=for-the-badge&logoColor=white" alt="lilliancodes" />
