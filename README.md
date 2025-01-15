@@ -33,55 +33,6 @@
       </p>
         <p><strong>JavaScript, HTML, CSS, Git</strong> - Web Application with RESTful API Integration. Cocktail Database is the all-in-one tool for cocktail enthusiasts. Dive into the extensive database and discover detailed recipes, ingredient lists, and visuals for each drink. Whether you're searching for a new combination to try or need the perfect recipe for your next gathering, the Cocktail Database has you covered!</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">...</h3>
-        <br />
-      <a target="_blank" href="#/">
-            <img src="#" width="100%"  alt=""/>
-        </a>
-        <br />
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=&message=REPO&color=68486F&style=for-the-badge&logo=github&logo-color=white"/>
-          </a>  
-          <a href="#" target="_blank">
-            <img src="#"/>
-          </a>
-      </p>
-        <p align="center"><strong>JavaScript, HTML, CSS, Git</strong> - </p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">...</h3>
-      <br />
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="#"/>
-          </a>
-      </p>
-      <p align="center">
-          <a href="#" target="_blank">
-            <img src="#"/>
-          </a>  
-      </p>
-        <p><strong>...</strong> - ...</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">...</h3>
-        <br />
-          <img src="#"/>
-        <br />
-        <br />
-        <br />
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="#"/>
-          </a>  
-        </p>
-        <p><strong>JavaScript, HTML5, CSS3, Git</strong> - ...</p>
-    </td>
   </tr>
 </table>
 
